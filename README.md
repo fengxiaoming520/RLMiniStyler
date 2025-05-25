@@ -15,19 +15,3 @@ This repository is the official implementation of [RLMiniStyler: Light-weight RL
 
 Illustration of our arbitrary style sequence generation process. **Top Left:** Content and Style Images (5 style examples). **Right:** The sequence number of the results. Content images are progressively stylized with increasing strength along prediction sequences (see the index). Our method allows for easy control over stylization degree, preserving content details in early sequences and synthesizing more style patterns in later sequences, resulting in a user-friendly approach.
 
-## Experiment
-### Requirements
-* Python 3.8
-* Pytorch 1.9.0
-* Torchvision 0.10.0
-* Numpy, PIL
-* Tqdm
-* Tensorboard
-
-### Testing 
-
-### Training  
-
-### Reference
-
-### Acknowledgments
