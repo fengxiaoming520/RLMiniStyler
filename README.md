@@ -18,8 +18,11 @@ Illustration of our arbitrary style sequence generation process. **Top Left:** C
 ## Experiment
 ### Requirements
 * Python 3.8
-* Pytorch 1.8.0
-* Torchvision 0.9.0
+* Pytorch 1.9.0
+* Torchvision 0.10.0
+* Numpy, PIL
+* tqdm
+* Tensorboard
 
 ### Testing 
 
