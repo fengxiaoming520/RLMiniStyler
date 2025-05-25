@@ -21,7 +21,7 @@ Illustration of our arbitrary style sequence generation process. **Top Left:** C
 * Pytorch 1.9.0
 * Torchvision 0.10.0
 * Numpy, PIL
-* tqdm
+* Tqdm
 * Tensorboard
 
 ### Testing 
